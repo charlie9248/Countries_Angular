@@ -1,0 +1,26 @@
+<div >
+    <div><h1 class="text-center font-weight-bold">{{county.name}}</h1></div>
+    <img id="img-countries" src="{{county.flag}}" alt="">
+    <hr>
+    <p><strong><i>General Information :</i></strong>
+        {{county.name}} is a country on the {{ county.subregion }} 
+         of the African continent, marked by several distinct
+        ecosystems ,  with population of {{county.population}}
+        </p>
+        <hr/>
+        <p class="lead text-muted">Capital City</p>
+        {{county.capital}}
+        <hr/>
+        <p class="lead text-muted">Currency</p>
+
+        <p *ngFor="let currency of county.currencies">
+            {{currency.name}}
+        </p>
+
+        <p class="lead text-muted">languages</p>
+
+        <p *ngFor="let language of county.languages">
+            {{language.name}}
+        </p>
+
+</div>

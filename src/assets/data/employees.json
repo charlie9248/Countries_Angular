@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1 ,"name":"mothibeli" , "department":"Infromation Technology"
+    },
+    {
+        "id": 2 ,"name":"tshepo" , "department":"Building  Science"
+    },
+    {
+        "id": 3 ,"name":"Rapuleng" , "department":"Law "
+    },
+    {
+        "id": 4 ,"name":"Charlie" , "department":"Engineering Technology"
+    },
+    {
+        "id": 5 ,"name":"Montgomary" , "department":"Computer Science"
+    }
+]

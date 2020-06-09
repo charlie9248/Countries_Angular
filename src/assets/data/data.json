@@ -1,0 +1,29 @@
+[
+    { 
+      "id" : 1,
+      "name" : "Iformation Technology"
+    }
+    ,
+
+    { 
+        "id" : 2,
+        "name" : "Civil Engineering "
+      }
+      ,
+      { 
+        "id" : 3,
+        "name" : "Medicine "
+     
+      }
+      ,
+      { 
+        "id" : 4,
+        "name" : "Law"
+      }
+      ,
+      { 
+        "id" : 5,
+        "name" : "Architecture"
+      }
+      
+  ]
